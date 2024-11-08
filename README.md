@@ -31,7 +31,6 @@ Welcome to my GitHub profile! I'm passionate about programming, technology, and 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![SQLDeveloper](https://img.shields.io/badge/SQLDeveloper-0066CC?style=flat&logo=oracle&logoColor=white)
 ![StarUML](https://img.shields.io/badge/StarUML-222222?style=flat&logo=staruml&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -49,7 +48,7 @@ Welcome to my GitHub profile! I'm passionate about programming, technology, and 
 ---
 
 ## 📫 Contacts
-- **Email**: your.email@example.com
+- **Email**: moonjhyun0613@gmail.com
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - **Blog**: [yourblog.com](https://yourblog.com)
 
