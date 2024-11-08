@@ -7,20 +7,20 @@ Have a nice day~ I'm interested in a Data Engineer.
 
 ## 📚 Currently Studying
 
-**Backend**:  
+**Backend**
   &nbsp; 🚀 Advanced **SpringBoot** development
 
-**Frontend**:  
+**Frontend**
   &nbsp; 🎨 **React** with **JavaScript**
 
-**Database**:  
+**Database**
   &nbsp; 📊 Optimization techniques for **MySQL**, **PostgreSQL**  
   &nbsp; ⏳ Future focus: **MongoDB**, **Cassandra**
 
-**Cloud**:  
+**Cloud**
   &nbsp; ☁️ **Google Cloud Platform (GCP)** - **BigQuery**, **Dataflow**
 
-**DevOps and Automation**:  
+**DevOps and Automation**
   &nbsp; ⚙️ **Docker**, **Kubernetes**, **Jenkins**, **Terraform**
 
 <br>
