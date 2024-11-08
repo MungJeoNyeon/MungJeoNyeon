@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi there, I'm 문정현!🧑🏻‍🔧
-Have a nice day~
+Have a nice day~ I am interested in a Data Engineer.
 
 <br>
 
