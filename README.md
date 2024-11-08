@@ -47,7 +47,7 @@ Have a nice day~ I'm interested in a Data Engineer.
 <br>
 
 ## 📫 Contacts
-**Email**: moonjhyun0613@gmail.com
+**Email**: moonjhyun0613@gmail.com
 **Blog**: It's under construction.
 
 </div>
