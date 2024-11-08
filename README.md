@@ -6,14 +6,25 @@ Have a nice day~ I'm interested in a Data Engineer.
 <br>
 
 ## 📚 Currently Studying
-- **Backend**: Advanced SpringBoot development
-- **Frontend**: React with JavaScript
-- **Database**: Optimization techniques for MySQL, PostgreSQL ( delay : MongoDB, Cassandra )
-- **Cloud**: GCP (BigQuery, Dataflow)
-- **Tools**: 
-- **DevOps and Automation**: Docker, Kubernetes, Jenkins, Terraform
+
+- **Backend**:  
+  &nbsp; 🚀 Advanced **SpringBoot** development
+
+- **Frontend**:  
+  &nbsp; 🎨 **React** with **JavaScript**
+
+- **Database**:  
+  &nbsp; 📊 Optimization techniques for **MySQL**, **PostgreSQL**  
+  &nbsp; ⏳ Future focus: **MongoDB**, **Cassandra**
+
+- **Cloud**:  
+  &nbsp; ☁️ **Google Cloud Platform (GCP)** - **BigQuery**, **Dataflow**
+
+- **DevOps and Automation**:  
+  &nbsp; ⚙️ **Docker**, **Kubernetes**, **Jenkins**, **Terraform**
 
 <br>
+
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
