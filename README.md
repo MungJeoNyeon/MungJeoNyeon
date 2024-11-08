@@ -35,12 +35,13 @@ Have a nice day~
 <br>
 
 ## 📚 Currently Studying
-- **Backend**: Advanced Flask development
-- **Frontend**: React with TypeScript
-- **Database**: Optimization techniques for MySQL
-- **Cloud**: AWS Services (EC2, S3)
+- **Backend**: Advanced SpringBoot development
+- **Frontend**: React with JavaScript
+- **Database**: Optimization techniques for MySQL, PostgreSQL ( delay : MongoDB, Cassandra )
+- **Cloud**: Naver Cloud Platform ( Cloud DB for MySQL, Server )
+- **Cloud**: GCP (BigQuery, Dataflow), Azure
 - **Tools**: Testing with Jest, CI/CD pipelines with GitHub Actions
-
+- **DevOps and Automation**: Docker, Kubernetes, Jenkins, Terraform
 ---
 
 ## 📫 Contacts
