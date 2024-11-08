@@ -1,7 +1,18 @@
 <div align="center">
 
 # 👋 Hi there, I'm 문정현!🧑🏻‍🔧
-Have a nice day~ I am interested in a Data Engineer.
+Have a nice day~ I'm interested in a Data Engineer.
+
+<br>
+
+## 📚 Currently Studying
+- **Backend**: Advanced SpringBoot development
+- **Frontend**: React with JavaScript
+- **Database**: Optimization techniques for MySQL, PostgreSQL ( delay : MongoDB, Cassandra )
+- **Cloud**: Naver Cloud Platform ( Cloud DB for MySQL, Server )
+- **Cloud**: GCP (BigQuery, Dataflow), Azure
+- **Tools**: Testing with Jest, CI/CD pipelines with GitHub Actions
+- **DevOps and Automation**: Docker, Kubernetes, Jenkins, Terraform
 
 <br>
 
@@ -33,16 +44,6 @@ Have a nice day~ I am interested in a Data Engineer.
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white)
 
 <br>
-
-## 📚 Currently Studying
-- **Backend**: Advanced SpringBoot development
-- **Frontend**: React with JavaScript
-- **Database**: Optimization techniques for MySQL, PostgreSQL ( delay : MongoDB, Cassandra )
-- **Cloud**: Naver Cloud Platform ( Cloud DB for MySQL, Server )
-- **Cloud**: GCP (BigQuery, Dataflow), Azure
-- **Tools**: Testing with Jest, CI/CD pipelines with GitHub Actions
-- **DevOps and Automation**: Docker, Kubernetes, Jenkins, Terraform
----
 
 ## 📫 Contacts
 - **Email**: moonjhyun0613@gmail.com
