@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👋 Hi there, I'm 문정현!
-Have a nice day~🧑🏻‍💻🧑🏻‍🔧🧑🏼‍🚀
+# 👋 Hi there, I'm 문정현!🧑🏻‍🔧
+Have a nice day~
 
 <br>
 
