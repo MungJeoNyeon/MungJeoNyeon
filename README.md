@@ -6,6 +6,8 @@ Have a nice day~ I'm interested in a Data Engineer.
 
 ## 📚 Currently Studying
 ![MacBook Pro 2019](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=flat&logo=apple&logoColor=white)
+<br>
+
 **Backend**
   &nbsp; 🚀 Advanced **SpringBoot** development
 
@@ -29,7 +31,6 @@ Have a nice day~ I'm interested in a Data Engineer.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![MacBook Pro 2019](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=flat&logo=apple&logoColor=white)
 <br>
 
 ## 📫 Contacts
