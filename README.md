@@ -48,11 +48,6 @@ Have a nice day~ I'm interested in a Data Engineer.
 
 ## 📫 Contacts
 **Email**: moonjhyun0613@gmail.com
-**LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 **Blog**: It's under construction.
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
 
 </div>
