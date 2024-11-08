@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about programming, technology, and 
 ---
 
 ## 🛠 Tools
-![MacBook Pro 2019](https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=flat&logo=apple&logoColor=white)
+![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=flat&logo=apple&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat&logo=dbeaver&logoColor=white)
