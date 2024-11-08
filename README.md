@@ -9,9 +9,8 @@ Have a nice day~ I'm interested in a Data Engineer.
 - **Backend**: Advanced SpringBoot development
 - **Frontend**: React with JavaScript
 - **Database**: Optimization techniques for MySQL, PostgreSQL ( delay : MongoDB, Cassandra )
-- **Cloud**: Naver Cloud Platform ( Cloud DB for MySQL, Server )
-- **Cloud**: GCP (BigQuery, Dataflow), Azure
-- **Tools**: Testing with Jest, CI/CD pipelines with GitHub Actions
+- **Cloud**: GCP (BigQuery, Dataflow)
+- **Tools**: 
 - **DevOps and Automation**: Docker, Kubernetes, Jenkins, Terraform
 
 <br>
@@ -24,6 +23,8 @@ Have a nice day~ I'm interested in a Data Engineer.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Naver Cloud Platform](https://img.shields.io/badge/Naver_Cloud_Platform-03C75A?style=flat&logo=naver&logoColor=white)
+<br>
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
@@ -46,9 +47,9 @@ Have a nice day~ I'm interested in a Data Engineer.
 <br>
 
 ## 📫 Contacts
-- **Email**: moonjhyun0613@gmail.com
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Blog**: [yourblog.com](https://yourblog.com)
+**Email**: moonjhyun0613@gmail.com
+**LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**Blog**: It's under construction.
 
 ---
 
