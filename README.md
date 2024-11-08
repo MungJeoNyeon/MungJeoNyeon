@@ -23,7 +23,8 @@ Have a nice day~ I'm interested in a Data Engineer.
 
 **DevOps and Automation**
   &nbsp; ⚙️ **Docker**, **Kubernetes**, **Jenkins**, **Terraform**
-
+**Read** 
+  &nbsp; 세상에서 가장 쉬운 통계학입문 - 고지마 히로유키 저자(글)
 <br>
 
 ## 💻 Tech Stack
